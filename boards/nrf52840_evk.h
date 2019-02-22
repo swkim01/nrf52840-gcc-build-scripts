@@ -64,7 +64,7 @@ extern "C" {
 
 #define BSP_LED_0      13
 #define BSP_LED_1      14
-#define BSP_LED_2      9
+#define BSP_LED_2      41
 #define BSP_LED_3      16
 
 #define BUTTONS_NUMBER 1
